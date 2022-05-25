@@ -1,0 +1,17 @@
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.pdb
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Glavna.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Login.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Sifarnik.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Raspodela.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Glavna2.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Upisnica.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Ocena.resources
